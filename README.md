@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I'm currently learning English.
 - 📫 You can contact me: <a href="https://piven.carrd.co">here</a>.
+- 🖖 Pronouns: he/him.
+- ⚡ Fun fact: キエフ国立言語大学で日本語を勉強しました。
